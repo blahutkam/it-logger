@@ -2,10 +2,10 @@
   "logs": [
     {
       "id": 1,
-      "message": "gjhfixed",
+      "message": "gjhfixedj",
       "attention": false,
       "tech": "Sam Smith",
-      "date": "2020-09-19T21:28:15.872Z"
+      "date": "2020-09-21T08:08:08.625Z"
     }
   ],
   "techs": [
@@ -28,6 +28,11 @@
       "firstName": "Junniper",
       "lastName": "Williams",
       "id": 4
+    },
+    {
+      "firstName": "Martin",
+      "lastName": "Bla",
+      "id": 7
     }
   ]
 }
